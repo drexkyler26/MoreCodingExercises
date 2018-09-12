@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b3f053-3abb-4271-afd5-17ae46f34768" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/grocery/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/grocery/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/ISave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,72 +26,103 @@
     <session id="-1317321488">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="27" />
+          <entry key="java" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9952" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="15265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9952" />
+          <entry key="JAVA" value="15265" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Contact.java">
+        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#810#818#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="61" column="56" lean-forward="true" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+            <state relative-caret-position="357">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
-                <element signature="e#4238#4239#0" expanded="true" />
-                <element signature="e#4293#4294#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#254#262#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/MobilePhone.java">
+        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/reversing/ReverseArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="-84">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/ISave.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -96,6 +133,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -117,10 +155,22 @@
         <option value="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Contact.java" />
         <option value="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/MobilePhone.java" />
         <option value="$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/AutoUnbox.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/Main.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Customer.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Branch.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Bank.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Customer.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Main.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Demo.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/ISave.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Player.java" />
+        <option value="$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="559" />
     <option name="y" value="8" />
     <option name="width" value="825" />
@@ -132,6 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -156,27 +208,17 @@
               <item name="MoreCodingExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MoreCodingExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MoreCodingExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="reversing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536419554517" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BrickBreaker" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536764105211" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -193,13 +235,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.sortinteger.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.linkedlist.Demo" />
       <module name="MoreCodingExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.paulpalac.array.sortinteger.*" />
+          <option name="PATTERN" value="dev.paulpalac.array.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.interfaces.Main" />
+      <module name="MoreCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.paulpalac.array.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +275,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.autounboxing.challenge.Main" />
       <module name="MoreCodingExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.paulpalac.array.getaverage.*" />
+          <option name="PATTERN" value="dev.paulpalac.array.autounboxing.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.linkedlist.Main" />
+      <module name="MoreCodingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.paulpalac.array.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,32 +314,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.paulpalac.array.reversing.ReverseArray" />
-      <module name="MoreCodingExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dev.paulpalac.array.reversing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.ReverseArray" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,9 +354,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="559" y="8" width="825" height="692" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25882354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,7 +367,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.17383513" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.39016393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,35 +385,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" weight="0.32980332" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33442622" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.33442622" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3295082" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -384,13 +412,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/reversing/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/reversing/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/grocery/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -409,28 +430,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="61" column="56" lean-forward="true" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
-          <folding>
-            <element signature="e#4238#4239#0" expanded="true" />
-            <element signature="e#4293#4294#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1037">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/arraylist/challenge/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/autounboxing/challenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/linkedlist/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/ISave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#810#818#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/interfaces/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/array/reversing/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
